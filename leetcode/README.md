@@ -10,7 +10,7 @@ Welcome to the LeetCode section of the ProblemSolving repository! This folder co
 
 Explore individual problem folders for solutions:
 
-- [Problem 1 - Ransom Note](leetcode/1-RansomNote/)
+- [Problem 1 - Ransom Note](1-RansomNote)
 
 ## LeetCode Website Links 🌐
 
