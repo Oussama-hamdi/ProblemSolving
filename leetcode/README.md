@@ -6,16 +6,16 @@ Welcome to the LeetCode section of the ProblemSolving repository! This folder co
 
 [LeetCode](https://leetcode.com/) is a popular platform for practicing coding problems, preparing for technical interviews, and enhancing algorithmic skills. This repository serves as a personal space to document solutions and track progress.
 
-## Guidelines 📋
+## Problem Folders 📁
 
-- Each LeetCode problem has its own folder.
-- Solutions are provided in JavaScript and TypeScript.
-- Explore the solutions for learning purposes or refer to them when you're stuck.
+Explore individual problem folders for solutions:
 
-## Problem Links 🌐
+- [Problem 1 - Ransom Note](leetcode/1-RansomNote/README.md)
 
-- [Problem 1](leetcode/problem1/README.md)
-- [Problem 2](leetcode/problem2/README.md)
-- [Problem 3](leetcode/problem3/README.md)
+## LeetCode Website Links 🌐
+
+Direct links to the problems on LeetCode:
+
+- [Ransom Note on LeetCode](https://leetcode.com/problems/ransom-note/)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
