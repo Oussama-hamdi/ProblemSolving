@@ -11,11 +11,13 @@ Welcome to the LeetCode section of the ProblemSolving repository! This folder co
 Explore individual problem folders for solutions:
 
 - [Problem 1 - Ransom Note](1-RansomNote)
+- [Problem 2 - Missing Number](2-MissingNumber)
 
 ## LeetCode Website Links 🌐
 
 Direct links to the problems on LeetCode:
 
 - [Ransom Note on LeetCode](https://leetcode.com/problems/ransom-note/)
+- [Missing Number on LeetCode](https://leetcode.com/problems/missing-number/)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
