@@ -1,4 +1,6 @@
 /**
+ * Time Complexity: O(n * m)
+ * 
  * @param {string} ransomNote
  * @param {string} magazine
  * @return {boolean}

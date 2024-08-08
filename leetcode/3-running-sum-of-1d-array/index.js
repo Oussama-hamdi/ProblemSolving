@@ -1,4 +1,6 @@
 /**
+ * Time Complexity: O(n)
+ * 
  * @param {number[]} nums
  * @return {number[]}
  */

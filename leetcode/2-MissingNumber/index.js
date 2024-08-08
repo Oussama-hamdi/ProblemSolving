@@ -1,5 +1,7 @@
 /**
- * @param {number[]} nums
+ * Time Complexity: O(n)
+ * 
+ * @param {number[]} numsith one number missing.
  * @return {number}
  */
 var missingNumber = function(nums) {
