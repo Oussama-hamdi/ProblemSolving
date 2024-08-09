@@ -14,6 +14,7 @@ Explore individual problem folders for solutions:
 - [Problem 2 - Missing Number](2-MissingNumber)
 - [Problem 3 - Running-sum-of-1d-array](3-Running-sum-of-1d-array)
 - [Problem 4 - Richest-customer-wealth](4-Richest-customer-wealth)
+- [Problem 5 - Fizz-buzz](5-Fizz-buzz)
 
 ## LeetCode Website Links 🌐
 
@@ -23,5 +24,6 @@ Direct links to the problems on LeetCode:
 - [Missing Number on LeetCode](https://leetcode.com/problems/missing-number/)
 - [Running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [Richest-customer-wealth](https://leetcode.com/problems/richest-customer-wealth/)
+- [Fizz-buzz](https://leetcode.com/problems/fizz-buzz/)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
