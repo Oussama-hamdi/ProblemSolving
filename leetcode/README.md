@@ -15,6 +15,7 @@ Explore individual problem folders for solutions:
 - [Problem 3 - Running-sum-of-1d-array](3-Running-sum-of-1d-array)
 - [Problem 4 - Richest-customer-wealth](4-Richest-customer-wealth)
 - [Problem 5 - Fizz-buzz](5-Fizz-buzz)
+- [Problem 6 - Number of Steps to Reduce a Number to Zero](6-Number-of-steps-to-reduce-a-number-to-zero)
 
 ## LeetCode Website Links 🌐
 
@@ -25,5 +26,6 @@ Direct links to the problems on LeetCode:
 - [Running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [Richest-customer-wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [Fizz-buzz](https://leetcode.com/problems/fizz-buzz/)
+- [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
