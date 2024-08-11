@@ -16,6 +16,7 @@ Explore individual problem folders for solutions:
 - [Problem 4 - Richest-customer-wealth](4-Richest-customer-wealth)
 - [Problem 5 - Fizz-buzz](5-Fizz-buzz)
 - [Problem 6 - Number of Steps to Reduce a Number to Zero](6-Number-of-steps-to-reduce-a-number-to-zero)
+- [Problem 7 - Middle-of-the-linked-list](7-Middle-of-the-linked-list)
 
 ## LeetCode Website Links 🌐
 
@@ -27,5 +28,6 @@ Direct links to the problems on LeetCode:
 - [Richest-customer-wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [Fizz-buzz](https://leetcode.com/problems/fizz-buzz/)
 - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+- [Middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
