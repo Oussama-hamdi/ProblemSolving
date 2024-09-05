@@ -10,7 +10,8 @@ Welcome to the CodeWars section of the ProblemSolving repository! This directory
 
 Explore individual problem folders for solutions:
 
-- [Ransom Note](codewars/1-RansomNote/README.md) - [Solution](codewars/1-RansomNote)
+- [Problem 1 - Simple Beads Count](1-SimpleBeadsCount)
+- [Problem 2 - Linked Lists Length & Count](2-LinkedLists-LengthAndCount)
 
 Feel free to delve into each problem folder to study the solutions and associated explanations.
 
@@ -18,6 +19,7 @@ Feel free to delve into each problem folder to study the solutions and associate
 
 Direct links to the problems on CodeWars:
 
-<!-- - [Ransom Note on CodeWars](https://www.codewars.com/kata/ransom-note) -->
+- [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569)
+- [Linked Lists - Length & Count](https://www.codewars.com/kata/55beec7dd347078289000021)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
