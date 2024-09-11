@@ -17,6 +17,7 @@ Explore individual problem folders for solutions:
 - [Problem 5 - Fizz-buzz](5-Fizz-buzz)
 - [Problem 6 - Number of Steps to Reduce a Number to Zero](6-Number-of-steps-to-reduce-a-number-to-zero)
 - [Problem 7 - Middle-of-the-linked-list](7-Middle-of-the-linked-list)
+- [Problem 8 - Reverse-Linked-List](8-Reverse-Linked-List)
 
 ## LeetCode Website Links 🌐
 
@@ -29,5 +30,6 @@ Direct links to the problems on LeetCode:
 - [Fizz-buzz](https://leetcode.com/problems/fizz-buzz/)
 - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [Middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [Reverse-Linked-List](https://leetcode.com/problems/reverse-linked-list/)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
