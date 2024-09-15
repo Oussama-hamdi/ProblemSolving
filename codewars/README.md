@@ -12,6 +12,7 @@ Explore individual problem folders for solutions:
 
 - [Problem 1 - Simple Beads Count](1-SimpleBeadsCount)
 - [Problem 2 - Linked Lists Length & Count](2-LinkedLists-LengthAndCount)
+- [Problem 3 - Grasshopper Terminal Game #1](3-GrasshopperTerminalGame1)
 
 Feel free to delve into each problem folder to study the solutions and associated explanations.
 
@@ -21,5 +22,6 @@ Direct links to the problems on CodeWars:
 
 - [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569)
 - [Linked Lists - Length & Count](https://www.codewars.com/kata/55beec7dd347078289000021)
+- [Grasshopper Terminal Game #1](https://www.codewars.com/kata/55e8aba23d399a59500000ce)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
