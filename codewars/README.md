@@ -14,6 +14,7 @@ Explore individual problem folders for solutions:
 - [Problem 2 - Linked Lists Length & Count](2-LinkedLists-LengthAndCount)
 - [Problem 3 - Grasshopper Terminal Game #1](3-GrasshopperTerminalGame1)
 - [Problem 4 - Filter the number](4-FilterTheNumber)
+- [Problem 5 - ASCII Total](5-ASCII_Total)
 
 Feel free to delve into each problem folder to study the solutions and associated explanations.
 
@@ -25,5 +26,6 @@ Direct links to the problems on CodeWars:
 - [Linked Lists - Length & Count](https://www.codewars.com/kata/55beec7dd347078289000021)
 - [Grasshopper Terminal Game #1](https://www.codewars.com/kata/55e8aba23d399a59500000ce)
 - [Filter the number](https://www.codewars.com/kata/55b051fac50a3292a9000025)
+- [ASCII Total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
