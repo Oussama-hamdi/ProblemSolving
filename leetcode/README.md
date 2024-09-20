@@ -18,6 +18,7 @@ Explore individual problem folders for solutions:
 - [Problem 6 - Number of Steps to Reduce a Number to Zero](6-Number-of-steps-to-reduce-a-number-to-zero)
 - [Problem 7 - Middle-of-the-linked-list](7-Middle-of-the-linked-list)
 - [Problem 8 - Reverse-Linked-List](8-Reverse-Linked-List)
+- [Problem 9 - Remove-Linked-List-Elements](9-Remove-Linked-List-Elements)
 
 ## LeetCode Website Links 🌐
 
@@ -31,5 +32,6 @@ Direct links to the problems on LeetCode:
 - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - [Middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Reverse-Linked-List](https://leetcode.com/problems/reverse-linked-list/)
+- [Remove-Linked-List-Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
