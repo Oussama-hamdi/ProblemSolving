@@ -19,6 +19,7 @@ Explore individual problem folders for solutions:
 - [Problem 7 - Middle-of-the-linked-list](7-Middle-of-the-linked-list)
 - [Problem 8 - Reverse-Linked-List](8-Reverse-Linked-List)
 - [Problem 9 - Remove-Linked-List-Elements](9-Remove-Linked-List-Elements)
+- [Problem 10 -Remove-Duplicates-from-Sorted-List](10-Remove-Duplicates-from-Sorted-List)
 
 ## LeetCode Website Links 🌐
 
@@ -33,5 +34,6 @@ Direct links to the problems on LeetCode:
 - [Middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [Reverse-Linked-List](https://leetcode.com/problems/reverse-linked-list/)
 - [Remove-Linked-List-Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+- [Remove-Duplicates-from-Sorted-List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
