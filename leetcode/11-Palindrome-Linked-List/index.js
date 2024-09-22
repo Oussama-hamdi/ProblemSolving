@@ -10,17 +10,23 @@
  * @return {boolean}
  */
 var isPalindrome = function(head) {
-    let curr = head;
     const checkArr = [];
+    let curr = head;
 
     while (curr) {
-        if (checkArr.includes(curr.val)) {
-            return true;
-        }
-
         checkArr.push(curr.val);
         curr = curr.next;
     }
 
-    return false;
+    let start = 0;
+    let end = checkArr.length - 1;
+    while (start < end) {
+        if (checkArr[start] !== checkArr[end]) {
+            return false;
+        }
+        start++;
+        end--;
+    }
+
+    return true;
 };
