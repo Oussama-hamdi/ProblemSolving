@@ -21,6 +21,7 @@ Explore individual problem folders for solutions:
 - [Problem 9 - Remove-Linked-List-Elements](9-Remove-Linked-List-Elements)
 - [Problem 10 - Remove-Duplicates-from-Sorted-List](10-Remove-Duplicates-from-Sorted-List)
 - [Problem 11 - Palindrome-Linked-List](11-Palindrome-Linked-List)
+- [Problem 12 - Sort-List](12-Sort-List)
 
 ## LeetCode Website Links 🌐
 
@@ -37,5 +38,6 @@ Direct links to the problems on LeetCode:
 - [Remove-Linked-List-Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 - [Remove-Duplicates-from-Sorted-List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
 - [Palindrome-Linked-List](https://leetcode.com/problems/palindrome-linked-list)
+- [Sort-List](https://leetcode.com/problems/sort-list)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
