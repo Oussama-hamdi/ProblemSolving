@@ -12,27 +12,45 @@
 var sortList = function(head) {
     if (!head || !head.next) return head;
 
-    let sorted = false;
+    let mid = getMiddle(head);
+    let rightHalf = mid.next;
+    mid.next = null;
 
-    while(!sorted) {
-        sorted = true;
+    let leftSorted = sortList(head);
+    let rightSorted = sortList(rightHalf);
 
-        let curr = head;
-        let prev = null;
+    return merge(leftSorted, rightSorted);
+};
 
-        while (curr && curr.next) {
-            if (curr.val > curr.next.val) {
-                sorted = false;
+function getMiddle(head) {
+    let slow = head;
+    let fast = head;
 
-                let tmp = curr.val;
-                curr.val = curr.next.val;
-                curr.next.val = tmp;
-            }
-
-            prev = curr;
-            curr = curr.next;
-        }
+    while (fast.next && fast.next.next) {
+        slow = slow.next;
+        fast = fast.next.next;
     }
 
-    return head;
-};
+    return slow;
+}
+
+function merge(l1, l2) {
+    let dummy = new ListNode();
+    let tail = dummy;
+
+    while (l1 && l2) {
+        if (l1.val < l2.val) {
+            tail.next = l1;
+            l1 = l1.next;
+        } else {
+            tail.next = l2;
+            l2 = l2.next;
+        }
+        tail = tail.next;
+    }
+
+    if (l1) tail.next = l1;
+    if (l2) tail.next = l2;
+
+    return dummy.next;
+}
