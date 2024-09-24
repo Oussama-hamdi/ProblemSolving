@@ -22,6 +22,7 @@ Explore individual problem folders for solutions:
 - [Problem 10 - Remove-Duplicates-from-Sorted-List](10-Remove-Duplicates-from-Sorted-List)
 - [Problem 11 - Palindrome-Linked-List](11-Palindrome-Linked-List)
 - [Problem 12 - Sort-List](12-Sort-List)
+- [Problem 13 - Delete-Nodes-From-Linked-List-Present-in-Array](13-Delete-Nodes-From-Linked-List-Present-in-Array)
 
 ## LeetCode Website Links 🌐
 
@@ -39,5 +40,6 @@ Direct links to the problems on LeetCode:
 - [Remove-Duplicates-from-Sorted-List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
 - [Palindrome-Linked-List](https://leetcode.com/problems/palindrome-linked-list)
 - [Sort-List](https://leetcode.com/problems/sort-list)
+- [Delete-Nodes-From-Linked-List-Present-in-Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
