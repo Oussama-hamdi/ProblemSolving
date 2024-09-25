@@ -23,6 +23,7 @@ Explore individual problem folders for solutions:
 - [Problem 11 - Palindrome-Linked-List](11-Palindrome-Linked-List)
 - [Problem 12 - Sort-List](12-Sort-List)
 - [Problem 13 - Delete-Nodes-From-Linked-List-Present-in-Array](13-Delete-Nodes-From-Linked-List-Present-in-Array)
+- [Problem 14 - Delete-Node-in-a-Linked-List](14-Delete-Node-in-a-Linked-List)
 
 ## LeetCode Website Links 🌐
 
@@ -41,5 +42,6 @@ Direct links to the problems on LeetCode:
 - [Palindrome-Linked-List](https://leetcode.com/problems/palindrome-linked-list)
 - [Sort-List](https://leetcode.com/problems/sort-list)
 - [Delete-Nodes-From-Linked-List-Present-in-Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array)
+- [Delete-Node-in-a-Linked-List](https://leetcode.com/problems/delete-node-in-a-linked-list)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
