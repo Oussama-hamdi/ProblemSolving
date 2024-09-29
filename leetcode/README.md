@@ -25,6 +25,7 @@ Explore individual problem folders for solutions:
 - [Problem 13 - Delete-Nodes-From-Linked-List-Present-in-Array](13-Delete-Nodes-From-Linked-List-Present-in-Array)
 - [Problem 14 - Delete-Node-in-a-Linked-List](14-Delete-Node-in-a-Linked-List)
 - [Problem 15 - Design-Linked-List](15-Design-Linked-List)
+- [Problem 16 - Swapping-Nodes-in-a-Linked-List](16-Swapping-Nodes-in-a-Linked-List)
 
 ## LeetCode Website Links 🌐
 
@@ -45,5 +46,6 @@ Direct links to the problems on LeetCode:
 - [Delete-Nodes-From-Linked-List-Present-in-Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array)
 - [Delete-Node-in-a-Linked-List](https://leetcode.com/problems/delete-node-in-a-linked-list)
 - [Design-Linked-List](https://leetcode.com/problems/design-linked-list)
+- [Swapping-Nodes-in-a-Linked-List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
