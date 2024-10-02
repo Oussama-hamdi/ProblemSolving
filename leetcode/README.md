@@ -27,6 +27,7 @@ Explore individual problem folders for solutions:
 - [Problem 15 - Design-Linked-List](15-Design-Linked-List)
 - [Problem 16 - Swapping-Nodes-in-a-Linked-List](16-Swapping-Nodes-in-a-Linked-List)
 - [Problem 17 - Convert-Binary-Number-in-a-Linked-List-to-Integer](17-Convert-Binary-Number-in-a-Linked-List-to-Integer)
+- [Problem 18 - Remove-Nodes-From-Linked-List](18-Remove-Nodes-From-Linked-List)
 
 ## LeetCode Website Links 🌐
 
@@ -49,5 +50,6 @@ Direct links to the problems on LeetCode:
 - [Design-Linked-List](https://leetcode.com/problems/design-linked-list)
 - [Swapping-Nodes-in-a-Linked-List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list)
 - [Convert-Binary-Number-in-a-Linked-List-to-Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)
+- [Remove-Nodes-From-Linked-List](https://leetcode.com/problems/remove-nodes-from-linked-list)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
