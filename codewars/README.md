@@ -16,6 +16,7 @@ Explore individual problem folders for solutions:
 - [Problem 4 - Filter the number](4-FilterTheNumber)
 - [Problem 5 - ASCII Total](5-ASCII_Total)
 - [Problem 6 - Multiplication Table](6-Multiplication-Table)
+- [Problem 7 - Reverse every other word in the string](7-Reverse-every-other-word-in-the-string)
 
 Feel free to delve into each problem folder to study the solutions and associated explanations.
 
@@ -29,5 +30,6 @@ Direct links to the problems on CodeWars:
 - [Filter the number](https://www.codewars.com/kata/55b051fac50a3292a9000025)
 - [ASCII Total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a)
 - [Multiplication Table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
+- [Reverse every other word in the string](https://www.codewars.com/kata/58d76854024c72c3e20000de)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
