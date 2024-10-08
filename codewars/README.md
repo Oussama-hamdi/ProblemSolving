@@ -17,6 +17,7 @@ Explore individual problem folders for solutions:
 - [Problem 5 - ASCII Total](5-ASCII_Total)
 - [Problem 6 - Multiplication Table](6-Multiplication-Table)
 - [Problem 7 - Reverse every other word in the string](7-Reverse-every-other-word-in-the-string)
+- [Problem 8 - Sorted yes no how](8-Sorted-yes-no-how)
 
 Feel free to delve into each problem folder to study the solutions and associated explanations.
 
@@ -31,5 +32,6 @@ Direct links to the problems on CodeWars:
 - [ASCII Total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a)
 - [Multiplication Table](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 - [Reverse every other word in the string](https://www.codewars.com/kata/58d76854024c72c3e20000de)
+- [8-Sorted yes no how](https://www.codewars.com/kata/580a4734d6df748060000045)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
