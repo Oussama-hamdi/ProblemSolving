@@ -12,6 +12,5 @@ This repository is a personal collection of coding problems solved using JavaScr
 
 - [CodeWars](codewars/README.md) ([CodeWars Website](https://www.codewars.com/)) 🌐
 - [LeetCode](leetcode/README.md) ([LeetCode Website](https://leetcode.com/)) 🌐
-- [Add more websites as needed]
 
 Feel free to explore and use the solutions for personal learning. Happy coding! 🚴‍♂️
