@@ -18,7 +18,8 @@ Explore individual problem folders for solutions:
 - [Problem 6 - Multiplication Table](6-Multiplication-Table)
 - [Problem 7 - Reverse every other word in the string](7-Reverse-every-other-word-in-the-string)
 - [Problem 8 - Sorted yes no how](8-Sorted-yes-no-how)
-- [Problem 9 -Digits explosion](9-Digits-explosion)
+- [Problem 9 - Digits explosion](9-Digits-explosion)
+- [Problem 10 - Currying functions: multiply all elements in an array](10-Currying-functions-multiply-all-elements-in-an-array)
 
 Feel free to delve into each problem folder to study the solutions and associated explanations.
 
@@ -35,5 +36,6 @@ Direct links to the problems on CodeWars:
 - [Reverse every other word in the string](https://www.codewars.com/kata/58d76854024c72c3e20000de)
 - [Sorted yes no how](https://www.codewars.com/kata/580a4734d6df748060000045)
 - [Digits explosion](https://www.codewars.com/kata/585b1fafe08bae9988000314)
+- [Currying functions: multiply all elements in an array](https://www.codewars.com/kata/586909e4c66d18dd1800009b)
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
