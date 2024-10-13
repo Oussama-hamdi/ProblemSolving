@@ -5,7 +5,7 @@ function animals(heads, legs){
     
     let chickens = heads - cows;
     
-    if (cows >= 0 && chickens >= 0 && Number.isInteger(cows) && Number.isInteger(chickens)) {
+    if (cows >= 0 && chickens >= 0) {
           return [chickens, cows];
       } else {
           return "No solutions";
