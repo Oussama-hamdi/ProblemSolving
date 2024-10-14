@@ -1,6 +1,6 @@
 # 🚀 ProblemSolving
 
-This repository is a personal collection of coding problems solved using JavaScript and TypeScript from various websites, including [CodeWars](https://www.codewars.com/) and [LeetCode](https://leetcode.com/). It serves as a practice ground for honing programming skills, exploring algorithms, and tracking progress.
+This repository is a personal collection of coding problems solved using JavaScript and TypeScript from various websites, including [CodeWars](https://www.codewars.com/) and [LeetCode](https://leetcode.com/). It serves as a practice ground for honing programming skills, exploring algorithms, and tracking progress. 
 
 ## Overview
 
