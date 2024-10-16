@@ -24,6 +24,7 @@ Explore individual problem folders for solutions:
 - [Problem 12 - Heads and Legs](12-Heads-and-Legs)
 - [Problem 13 - Adding Big Numbers](13-Adding-Big-Numbers)
 - [Problem 14 - Split The Bill](14-Split-The-Bill)
+- [Problem 15 - Formatting decimal places](15-Formatting-decimal-places)
 
 Feel free to delve into each problem folder to study the solutions and associated explanations.
 
@@ -45,6 +46,7 @@ Direct links to the problems on CodeWars:
 - [Heads and Legs](https://www.codewars.com/kata/574c5075d27783851800169e)
 - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
 - [Split The Bill](https://www.codewars.com/kata/5641275f07335295f10000d0)
+- [Formatting decimal places](https://www.codewars.com/kata/5641a03210e973055a00000d)
 
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
