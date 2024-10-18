@@ -25,6 +25,7 @@ Explore individual problem folders for solutions:
 - [Problem 13 - Adding Big Numbers](13-Adding-Big-Numbers)
 - [Problem 14 - Split The Bill](14-Split-The-Bill)
 - [Problem 15 - Formatting decimal places](15-Formatting-decimal-places)
+- [Problem 16 - Alphabet war](16-Alphabet-war)
 
 Feel free to delve into each problem folder to study the solutions and associated explanations.
 
@@ -47,6 +48,7 @@ Direct links to the problems on CodeWars:
 - [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21)
 - [Split The Bill](https://www.codewars.com/kata/5641275f07335295f10000d0)
 - [Formatting decimal places](https://www.codewars.com/kata/5641a03210e973055a00000d)
+- [Alphabet war](https://www.codewars.com/kata/59377c53e66267c8f6000027)
 
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
