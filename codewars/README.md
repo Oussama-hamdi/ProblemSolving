@@ -26,6 +26,7 @@ Explore individual problem folders for solutions:
 - [Problem 14 - Split The Bill](14-Split-The-Bill)
 - [Problem 15 - Formatting decimal places](15-Formatting-decimal-places)
 - [Problem 16 - Alphabet war](16-Alphabet-war)
+- [Problem 17 - Sum of array singles](17-Sum-of-array-singles)
 
 Feel free to delve into each problem folder to study the solutions and associated explanations.
 
@@ -49,6 +50,7 @@ Direct links to the problems on CodeWars:
 - [Split The Bill](https://www.codewars.com/kata/5641275f07335295f10000d0)
 - [Formatting decimal places](https://www.codewars.com/kata/5641a03210e973055a00000d)
 - [Alphabet war](https://www.codewars.com/kata/59377c53e66267c8f6000027)
+- [Sum of array singles](https://www.codewars.com/kata/59f11118a5e129e591000134)
 
 
 Feel free to explore and learn from the solutions. Happy coding! 🚴‍♂️
